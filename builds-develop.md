@@ -1,6 +1,6 @@
 ---
 tags: dontlink
-sitemap: true
+sitemap: false
 ---
 
 # Latest Development Builds

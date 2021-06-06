@@ -1,6 +1,6 @@
 ---
 tags: dontlink
-sitemap: true
+sitemap: false
 ---
 
 # Installing on Debian, Ubuntu, elementaryOS, Linux Mint and similar

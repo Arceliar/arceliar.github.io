@@ -1,6 +1,6 @@
 ---
 tags: dontlink
-sitemap: true
+sitemap: false
 ---
 
 # Installing using the Windows installer

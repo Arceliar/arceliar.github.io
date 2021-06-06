@@ -1,6 +1,6 @@
 ---
 tags: dontlink
-sitemap: true
+sitemap: false
 ---
 
 # Installing on Red Hat Enterprise Linux, Fedora, CentOS and similar
